@@ -72,18 +72,6 @@ npm run start
 
 #### 3️⃣ Open in Browser
 Visit: http://localhost:3000
-----
-## 📂 Project Structure
-.
-├─ backend/
-│ └─ server.js # Express.js REST APIs
-├─ frontend/
-│ └─ src/
-│ └─ components/ # React components (Form, Preview, Export, etc.)
-├─ .env # Environment variables
-├─ README.md # Project Documentation
-
-Copy code
 
 ---
 ## ✅ Deliverables
