@@ -32,19 +32,19 @@ In today’s competitive job market, crafting a well‑presented resume is chall
 ## 📷 Demo Screenshots
 
 ### 1️⃣ Home Page
-![Home Page](screenshots/screenshot1.png)
+![Home Page](Screenshots/Screenshot1.png)
 
 ### 2️⃣ Resume Form
-![Resume Form](screenshots/screenshot2.png)
+![Resume Form](Screenshots/Screenshot2.png)
 
 ### 3️⃣ AI Suggestions
-![AI Suggestions](screenshots/screenshot3.png)
+![AI Suggestions](Screenshots/Screenshot3.png)
 
 ### 4️⃣ Resume Preview
-![Resume Preview](screenshots/screenshot4.png)
+![Resume Preview](Screenshots/Screenshot4.png)
 
 ### 5️⃣ Exported PDF
-![Exported PDF](screenshots/screenshot5.png)
+![Exported PDF](Screenshots/Screenshot5.png)
 
 
 ## ⚡️ Getting Started
