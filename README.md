@@ -31,8 +31,8 @@ In today’s competitive job market, crafting a well‑presented resume is chall
 
 ## 📷 Demo Screenshots
 
-### 1️⃣ Home Page
-![Home Page](Screenshots/Screenshot1.png)
+### 1️⃣ Resume Form
+![Resume Form](Screenshots/Screenshot1.png)
 
 ### 2️⃣ Resume Form
 ![Resume Form](Screenshots/Screenshot2.png)
