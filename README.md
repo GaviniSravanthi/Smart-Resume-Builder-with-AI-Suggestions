@@ -44,7 +44,7 @@ In today’s competitive job market, crafting a well‑presented resume is chall
 
 git clone https://github.com/<your-username>/smart-resume-builder.git
 cd smart-resume-builder
-
+---
 #### 2️⃣ Install Dependencies
 
 ### Backend
@@ -54,13 +54,13 @@ npm install
 ### Frontend
 cd client
 npm install
-
+---
 #### 3️⃣ Add Environment Variables
 Create a .env file in the backend directory:
 MONGO_URI=your-mongodb-uri
 OPENAI_API_KEY=your-openai-api-key
 PORT=5000
-
+---
 ## 🚀 Usage
 #### 1️⃣ Start the Backend
 cd server
@@ -72,16 +72,20 @@ npm run start
 
 #### 3️⃣ Open in Browser
 Visit: http://localhost:3000
-
+----
 ## 📂 Project Structure
 .
 ├─ backend/
-│  └─ server.js           # Express.js REST APIs
+│ └─ server.js # Express.js REST APIs
 ├─ frontend/
-│  └─ src/                 # React components (Form, Preview, Export, etc.)
-├─ .env                    # Environment Variables
-├─ README.md               # Project Documentation
+│ └─ src/
+│ └─ components/ # React components (Form, Preview, Export, etc.)
+├─ .env # Environment variables
+├─ README.md # Project Documentation
 
+Copy code
+
+---
 ## ✅ Deliverables
 - 🖊️ **Interactive Resume Builder** — Enables user input and structured layout.
 - 🧠 **AI Suggestions** — Provides intelligent suggestions for summaries, experience, and wording.
