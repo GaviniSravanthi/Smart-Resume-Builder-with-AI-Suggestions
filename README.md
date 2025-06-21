@@ -48,12 +48,12 @@ cd smart-resume-builder
 #### 2️⃣ Install Dependencies
 
 ### Backend
-cd server
-npm install
+- cd server
+- npm install
 
 ### Frontend
-cd client
-npm install
+- cd client
+- npm install
 ---
 #### 3️⃣ Add Environment Variables
 Create a .env file in the backend directory:
@@ -63,12 +63,12 @@ PORT=5000
 ---
 ## 🚀 Usage
 #### 1️⃣ Start the Backend
-cd server
-npm run dev
+- cd server
+- npm run dev
 
 #### 2️⃣ Start the Frontend
-cd client
-npm run start
+- cd client
+- npm run start
 
 #### 3️⃣ Open in Browser
 Visit: http://localhost:3000
