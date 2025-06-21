@@ -41,59 +41,53 @@ In today’s competitive job market, crafting a well‑presented resume is chall
 ### 📥 Installation
 
 #### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/<your-username>/smart-resume-builder.git
 cd smart-resume-builder
-2️⃣ Install Dependencies
-Backend:
 
-bash
-Copy
-Edit
-cd backend
-npm install
-Frontend:
+#### 2️⃣ Install Dependencies
 
-bash
-cd frontend
+### Backend
+cd server
 npm install
-3️⃣ Add Environment Variables
+
+### Frontend
+cd client
+npm install
+
+#### 3️⃣ Add Environment Variables
 Create a .env file in the backend directory:
-
-env
 MONGO_URI=your-mongodb-uri
 OPENAI_API_KEY=your-openai-api-key
 PORT=5000
 
-🚀 Usage
-1️⃣ Start the Backend
-cd backend
+## 🚀 Usage
+#### 1️⃣ Start the Backend
+cd server
 npm run dev
 
-2️⃣ Start the Frontend
-
-cd frontend
+#### 2️⃣ Start the Frontend
+cd client
 npm run start
 
-3️⃣ Open in Browser
+#### 3️⃣ Open in Browser
 Visit: http://localhost:3000
 
-📂 Project Structure
+## 📂 Project Structure
 .
 ├─ backend/
 │  └─ server.js           # Express.js REST APIs
 ├─ frontend/
-│  └─ src/                # React components (Form, Preview, Export, etc.)                      
+│  └─ src/                 # React components (Form, Preview, Export, etc.)
 ├─ .env                    # Environment Variables
 ├─ README.md               # Project Documentation
 
-✅ Deliverables
-Interactive resume builder form
+## ✅ Deliverables
+- 🖊️ **Interactive Resume Builder** — Enables user input and structured layout.
+- 🧠 **AI Suggestions** — Provides intelligent suggestions for summaries, experience, and wording.
+- 👁️ **Real‑Time Preview** — Displays resume changes instantly.
+- 🖨️ **PDF Export** — Export resumes as clean, downloadable PDFs.
+- ☁️ **Secure Storage** — Store and retrieve user resumes securely in a MongoDB database.
 
-AI‑driven suggestions for summaries and experience sections
 
-Export resumes as PDFs
 
-Responsive and print‑friendly resume preview
-
-Backend database for storing user resumes
